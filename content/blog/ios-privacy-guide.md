@@ -1,5 +1,5 @@
 +++
-title = "Ios Privacy Guide"
+title = "iOS Privacy Guide"
 date = "2023-02-15T17:14:23+01:00"
 
 #

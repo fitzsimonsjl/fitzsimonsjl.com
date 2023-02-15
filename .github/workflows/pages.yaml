@@ -35,6 +35,9 @@ jobs:
           hugo-version: "latest"
           extended: true
 
+      - name: Remove public dir
+        run: rm -rf public
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v2

@@ -5,3 +5,4 @@ description:
 draft: false
 tags: []
 ---
+# What exactly is a Static Site Generator (SSG)?

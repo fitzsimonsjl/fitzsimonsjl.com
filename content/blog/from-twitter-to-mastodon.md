@@ -2,7 +2,7 @@
 title: "From Twitter to Mastodon"
 date: "2023-02-15T17:14:37+01:00"
 description:
-draft: false
+draft: true
 tags: [twitter, mastodon, guide]
 ---
 

@@ -1,13 +1,9 @@
-+++
-title = "iOS Privacy Guide"
-date = "2023-02-15T17:14:23+01:00"
+---
+title: "iOS Privacy Guide"
+date: "2023-02-15T17:14:23+01:00"
+description:
+draft: false
+tags: [ios, privacy, security, guide]
+---
 
-#
-# description is optional
-#
-# description = "An optional description for SEO. If not provided, an automatically created summary will be used."
-
-tags = []
-+++
-
-This is a page about »Ios Privacy Guide«.
+In progress - this post will discuss the steps you can take to make iOS as private as possible.

@@ -1,7 +1,7 @@
 ---
-title: "Vero 4k an Apple Tv Alternative"
+title: "Vero 4K: an Apple TV alternative?"
 date: 2023-02-16T12:44:10+01:00
 description:
-draft: true
-tags: []
+draft: false
+tags: [apple, osmc, media]
 ---

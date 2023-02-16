@@ -20,4 +20,4 @@ When deciding on which I was planning to use, the three that I considered (which
 
 ### Gatsby
 
-### Hugo U+2B05 I chose this one
+### Hugo :arrow_left: I chose this one

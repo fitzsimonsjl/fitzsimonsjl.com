@@ -27,7 +27,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          submodules: true
+          submodules: true # Ensures that our theme is always the latest stable version.
 
       - name: Setting up Hugo
         uses: peaceiris/actions-hugo@v2
@@ -36,7 +36,7 @@ jobs:
           extended: true
 
       - name: Remove public dir
-        run: rm -rf public # delete the public directory (our published output folder) before build so stale content is not kept.
+        run: rm -rf public # Delete the public directory (our published output folder - ./public) before build so stale content is not kept.
 
       - name: Setting up Pages
         id: pages
@@ -45,7 +45,7 @@ jobs:
       - name: Build
         run: hugo --baseURL "${{ steps.pages.outputs.base_url }}/"
 
-      - name: Upload artifact
+      - name: Upload artifact # Here we are able to view the contents of our site at the time of deploy - it will be kept for a short while before deletion.
         uses: actions/upload-pages-artifact@v1
         with:
           path: ./public

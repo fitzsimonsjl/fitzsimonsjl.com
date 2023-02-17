@@ -1,7 +1,7 @@
 ---
 title: "Welcoming the end of the WebKit era (maybe)"
 date: 2023-02-16T17:42:17+01:00
-description: "Test"
+description: "Some thoughts on Apple's WebKit requirements and what dropping it might mean for the future in terms of privacy and security."
 draft: false
 tags: [apple, ios, webkit]
 ---
@@ -44,7 +44,7 @@ Although the criteria are somewhat broad, it does seem as though it has Apple sq
 
 Overall, it means that other browsers can offer new features and there will be some feature parity with Android, It also means that the development of these other browsers is not tied to the update and release cycle of WebKit itself. 
 
-By no longer having this anchor, it might (though this is a bit might depending on how generous Apple is feeling with their API libraries) even be possible to build workarounds for features that are reserved solely for Safari on iOS itself. These include:
+By no longer having this anchor, it might (though this is a big might depending on how generous Apple is feeling with their API libraries) even be possible to build workarounds for features that are reserved solely for Safari on iOS itself. These include:
 
 - the ability to choose full screen video
 - install web apps (more on this below)
@@ -55,7 +55,7 @@ By no longer having this anchor, it might (though this is a bit might depending 
 
 Because this blog is primarily focused on security and privacy, the browser extension point is of particular interest to me. One of the things I left out of that list above that is incredibly important from a privacy perspective <u>is the fact that non-Safari WebKit browsers in their current state are not allowed (by Apple) to implement Apple's own Intelligent Tracking Prevention (ITP) which limits the use of cookies in a first-party context</u>,
 
-Being able to use browser extensions such as Ublock Origin, Firefox Containers, or NoScript, Chrome and Firefox would be able to improve and maintain users privacy whilst they browse the web.
+Being able to use browser extensions such as Ublock Origin, Firefox Containers, or NoScript; Chrome and Firefox would be able to improve and maintain users privacy whilst they browse the web.
 
 **Progressive Web Apps (PWA) may gradually become first-class citizens**
 
@@ -65,7 +65,7 @@ Further, if they are allowed to integrate Apple Pay into their browsers, Apple m
 
 **Your old iOS devices get a longer lease of life**
 
-The dusty iPad sitting in a drawer. Or maybe you gave it to your child to keep them entertained for those 30 minutes of peace you've been wanting. Or maybe it ended up with an elderly relative who isn't quite savvy enough to use a computer without 2 hours of your time in the process. Whatever the scenario is, the last "proper" use of that iPad would be for web browsing - whether it's YouTube or online banking. 
+The dusty iPad sitting in a drawer. Or maybe you gave it to your child to keep them entertained for those 30 minutes of peace you've been wanting. Or maybe it ended up with an elderly relative who isn't quite savvy enough to use a computer without 2 hours of your time in the process. Whatever the scenario is, the last "proper" use of that iPad would be for web browsing - whether it's YouTube or online banking (though I wouldn't recommend it!). 
 
 With things as they are now though, that iPad has been rendered completely useless because it needs an up-to-date version of Safari. The problem is, that the version of Safari you need is tied to iOS updates - and those ran out a few years ago meaning you're stuck. 
 
@@ -76,7 +76,7 @@ By allowing non-WebKit browsers, assuming the iPad isn't completely ancient, it 
 By allowing non-WebKit browsers, Google and Mozilla can:
 
 - use same engine as desktop (Blink, and Gecko respectively). There would no longer be a need for specific iOS WebKit target releases when you can re-use some of the code base that you've been working on for so long.
-- Related to the point above, this all works towards speeding up development for getting a non-WebKit browser into the App Store should Apple actually go through with dropping the requirement. [Both Google and Mozilla have already started work on it](https://www.theregister.com/2023/02/07/mozilla_google_apple_webkit/).
+- related to the point above, this all works towards speeding up development for getting a non-WebKit browser into the App Store should Apple actually go through with dropping the requirement. [Both Google and Mozilla have already started work on it](https://www.theregister.com/2023/02/07/mozilla_google_apple_webkit/).
 - release patches for vulnerabilities quicker -  there is no need to wait on Apple to update the underlying WebKit engine before a fix can be pushed.
 
 **Everyone gets a faster browser**

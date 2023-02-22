@@ -53,7 +53,7 @@ By no longer having this anchor, it might (though this is a big might depending 
 
 **Circling back to browser extensions**
 
-Because this blog is primarily focused on security and privacy, the browser extension point is of particular interest to me. One of the things I left out of that list above that is incredibly important from a privacy perspective <u>is the fact that non-Safari WebKit browsers in their current state are not allowed (by Apple) to implement Apple's own Intelligent Tracking Prevention (ITP) which limits the use of cookies in a first-party context</u>,
+Because this blog is primarily focused on security and privacy, the browser extension point is of particular interest to me. One of the things I left out of that list above that is incredibly important from a privacy perspective <u>is the fact that non-Safari WebKit browsers in their current state are not allowed (by Apple) to implement Apple's own Intelligent Tracking Prevention (ITP) which limits the use of cookies in a first-party context</u>.
 
 Being able to use browser extensions such as Ublock Origin, Firefox Containers, or NoScript; Chrome and Firefox would be able to improve and maintain users privacy whilst they browse the web.
 

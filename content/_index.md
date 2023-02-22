@@ -1,4 +1,4 @@
-This site is a static site hosted on [Github Pages](https://pages.github.com), using the [Hugo Static Site Generator](https://gohugo.io). It doesn't have much styling because I'd rather not fight with CSS. 
+This is a static site hosted on [Github Pages](https://pages.github.com), using the [Hugo Static Site Generator](https://gohugo.io). There's no styling because I dislike fighting with CSS. 
 
 This site is not optimised for SEO in any way because I'm not expecting much of an audience. If you're reading this then it's likely that:
 

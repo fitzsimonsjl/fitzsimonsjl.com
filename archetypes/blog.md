@@ -1,7 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-description: "Test"
-draft: 
+description: ""
+draft: true
 tags: []
 ---

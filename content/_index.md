@@ -1,4 +1,4 @@
-This is a static site made with [Hugo](https://gohugo.io), hosted on [Github Pages](https://pages.github.com). There's no styling because I dislike fighting with CSS. 
+This is a [Hugo](https://gohugo.io) site hosted on [Github Pages](https://pages.github.com). There's no styling because I dislike fighting with CSS. 
 
 This site is not optimised for SEO in any way because I'm not expecting much of an audience. If you're reading this then it's likely that:
 
@@ -21,4 +21,4 @@ Links to other places you can find me/get in touch:
 - [Matrix](https://matrix.to/#/@user:jfitzsimo)
 - [LinkedIn](https://dk.linkedin.com/in/jacklukefitzsimons)
 - [Mastodon](https://infosec.exchange/@jfitzsimo)
-- [GitHub](https://github.com/fitzsimonsjl).
+- [GitHub](https://github.com/fitzsimonsjl)

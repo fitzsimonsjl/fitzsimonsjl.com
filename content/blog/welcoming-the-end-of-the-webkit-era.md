@@ -2,11 +2,12 @@
 title: "Welcoming the end of the WebKit era (maybe)"
 date: 2023-02-16T17:42:17+01:00
 description: "Some thoughts on Apple's WebKit requirements and what dropping it might mean for the future in terms of privacy and security."
+toc: false
 draft: false
 tags: [apple, ios, webkit]
 ---
 
-### Apple considers dropping the iOS WebKit requirement
+#### Apple considers dropping the iOS WebKit requirement
 
 For many years (since the first release of iOS), one of the rules of being in the App Store as a browser has meant that what Apple says goes - including all web browsers being required to use Apple's WebKit rendering engine.
 

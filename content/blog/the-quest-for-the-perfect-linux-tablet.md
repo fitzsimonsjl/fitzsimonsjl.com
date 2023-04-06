@@ -7,8 +7,6 @@ draft: false
 tags: [technology, linux, ubuntu, surface]
 ---
 
-This post ended up being quite long, so feel free to use the Table of Contents to skip through and get to the relevant parts for you!
-
 ### Introduction
 
 As much as I love a decently sized screen (ideally a 15" laptop), sometimes it isn't entirely practical. This is especially true when travelling or at a coffee shop when I already have my work laptop in my bag along with everything else. For that reason, I wanted something smaller that I could still use to update this blog, take notes, and do light coding with.

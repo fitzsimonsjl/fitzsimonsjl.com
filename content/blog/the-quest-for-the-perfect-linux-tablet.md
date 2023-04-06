@@ -1,6 +1,6 @@
 ---
 title: "In search of the perfect Linux tablet (or close enough...)"
-date: 2023-04-06T12:30:00+01:00
+date: 2023-04-05T12:30:00+01:00
 description: "A guide for replacing Windows with Ubuntu on a Surface Go 3 device"
 toc: true
 draft: false
@@ -34,7 +34,7 @@ To get started, turn on your Surface Go and start going through the first time s
 
 The Wi-Fi connection option is where we hit our first roadblock - if you connect the Surface to a network and continue through the setup, you'll be in for a rude surprise when it becomes clear that you can't go further without singing into an existing Microsoft account or creating a new one. Instead, hit Fn + F10 which will bring up a command prompt and enter the following command (note the backslash rather than forward slash):
 
-```bash
+```powershell
 OOBE\bypassnro
 ```
 
@@ -121,10 +121,9 @@ Shut down your Surface entirely and press and hold the volume up and power butto
 
 After replacing Ubuntu with Windows, the Surface Go 3 is much snappier - as a result, I'm looking forward to being able to use this device for many years to come. Surprisingly, everything except the webcam (which I don't plan on using) works straight out of the box, so there's very little fiddling to do with settings and configuration after install. 
 
-The only thing I did notice was that by default, scrolling with the touchpad or with a finger (if using in tablet mode) won't work by default. To fix this, open Firefox and in a new tab enter ```bash about:config```, then search for ```bash dom.w3c_touch_events.enabled``` Change 2 to 1 and close the tab. To make the change permanent, open a new terminal and enter ```bash echo "MOZ_USE_XINPUT2=1" | sudo tee /etc/environment```. Finally, log out, and log in again. 
+The only thing I did notice was that by default, scrolling with the touchpad or with a finger (if using in tablet mode) won't work by default. To fix this, open Firefox and in a new tab enter ```about:config```, then search for ```dom.w3c_touch_events.enabled``` Change 2 to 1 and close the tab. To make the change permanent, open a new terminal and enter ``` echo "MOZ_USE_XINPUT2=1" | sudo tee /etc/environment```. Finally, log out, and log in again. 
 
 That's it - enjoy your new Surface! In the next post I'll look at useful applications you can install for drawing/taking notes.
-
 
 
 

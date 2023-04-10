@@ -119,7 +119,7 @@ After replacing Ubuntu with Windows, the Surface Go 3 is much snappier - as a re
 
 The only thing I did notice was that by default, scrolling with the touchpad or with a finger (if using in tablet mode) won't work by default. To fix this, open Firefox and in a new tab enter ```about:config```, then search for ```dom.w3c_touch_events.enabled``` Change 2 to 1 and close the tab. To make the change permanent, open a new terminal and enter ``` echo "MOZ_USE_XINPUT2=1" | sudo tee /etc/environment```. Finally, log out, and log in again. 
 
-That's it - enjoy your new Surface! In the next post I'll look at useful applications you can install for drawing/taking notes.
+That's it - enjoy your new Surface! In the next Surface Go post I'll look at useful applications you can install for drawing/taking notes.
 
 
 

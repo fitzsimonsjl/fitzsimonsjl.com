@@ -1,5 +1,5 @@
 ---
-title: "In search of the perfect Linux tablet (or close enough...)"
+title: "In search of the perfect Linux tablet (or close enough)"
 date: 2023-04-05T12:30:00+01:00
 description: "A guide for replacing Windows with Ubuntu on a Surface Go 3 device"
 draft: false
@@ -10,11 +10,11 @@ tags: [technology, linux, ubuntu, surface]
 
 [Introduction](#introduction)\
 [Some prerequisites](#prereqs)\
-[First boot](#first-boot)
+[First boot](#first-boot)\
 [Preparing to install Ubuntu](#prep-install-ubuntu)\
-[Installing Ubuntu](#installing-ubuntu)\
+[Installing Ubuntu](#install-ubuntu)\
 [Post-install](#post-install)\
-[Re-enabling Secure Boot](#reenabling-secure-boot)\
+[Re-enabling Secure Boot](#re-enable-secure-boot)\
 [Conclusion and fixing some annoyances](#conclusion)
 
 
@@ -31,7 +31,7 @@ For a while, I almost resigned myself to just buying a 13" laptop, but I had som
 
 Getting the Surface (many different types, suprisingly) running Linux is incredibly straightforward, though I did have a few hiccups along the way. So, for the sake of documenting it for myself (at least as of April 2023) and for anyone else who wants to do the same, here's how to get your Surface Go up and running with Ubuntu (22.10 being the latest version at the time of writing).
 
-<a name="prerequs"/>
+<a name="prereqs"/>
 
 ### Some prerequisites
 
@@ -78,7 +78,7 @@ Next, head to the ]Canonical website to download Ubuntu}(https://ubuntu.com/down
 
 Once both files have been downloaded, open Etcher and click "Select image", Here, pick the Ubuntu iso file we just downloaded. Click "Select device" and choose the USB stick that is plugged into the Surface. Finally, click "Flash" and wait till it says the flashing process is complete.
 
-<a name="installing-ubuntu"/>
+<a name="install-ubuntu"/>
 
 ### Installing Ubuntu
 
@@ -127,7 +127,7 @@ echo "deb [arch=amd64] https://pkg.surfacelinux.com/debian release main" \
 sudo apt update && sudo apt install linux-image-surface linux-headers-surface libwacom-surface iptsd
 ```
 
-<a name="reenabling-secure-boot"/>
+<a name="re-enable-secure-boot"/>
 
 ### Re-enabling Secure Boot
 

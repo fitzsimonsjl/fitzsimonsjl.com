@@ -10,7 +10,7 @@ The site doesn't contain any tracking pixels, analytics, sign-up forms, or newsl
 
 -------------------------------------------------------------------------
 
-On this site you'll find my ramblings on tech, privacy, OSINT, and cybersecurity - see the "Blog" section. At some point I'll get around to adding a Photography section (it'll probably be a while)
+On this site you'll find my ramblings on tech, privacy, OSINT, and cybersecurity - see the "Blog" section. I'm gradually updating the Photography section - feel free to take a gander if that's your sort of thing.
 
 I have no plans to allow comments on posts because I'd rather not spend time moderating them. 
 

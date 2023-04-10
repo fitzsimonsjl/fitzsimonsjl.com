@@ -74,7 +74,7 @@ Once you are at the Windows desktop, hit the Windows key and type "Settings", th
 
 At this point, all firmware updates should be finished, and your Surface Go will have restarted a number of times during the process. Now that we have that out of the way, we can take our USB stick (with a USB-C connection as noted above) and plug it into the Surface Go.
 
-Next, head to the ]Canonical website to download Ubuntu}(https://ubuntu.com/download/desktop). Whilst you have your browser open, open a new tab and [download Balena Etcher along with it](https://www.balena.io/etcher). We'll use Etcher to make a bootable USB of Ubuntu so that we can install it on our Surface.
+Next, head to the [Canonical website to download Ubuntu](https://ubuntu.com/download/desktop). Whilst you have your browser open, open a new tab and [download Balena Etcher along with it](https://www.balena.io/etcher). We'll use Etcher to make a bootable USB of Ubuntu so that we can install it on our Surface.
 
 Once both files have been downloaded, open Etcher and click "Select image", Here, pick the Ubuntu iso file we just downloaded. Click "Select device" and choose the USB stick that is plugged into the Surface. Finally, click "Flash" and wait till it says the flashing process is complete.
 

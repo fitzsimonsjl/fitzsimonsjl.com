@@ -15,8 +15,6 @@ The obvious choice would have been some kind of traditional tablet like an iPad,
 
 For a while, I almost resigned myself to just buying a 13" laptop, but I had some qualms about how portable it was going to be when travelling with a work laptop, toiletries, and clothes already taking up space/weight in my rucksack. In the back of my mind, I also wanted the possibility of being able to use Linux rather than being stuck with ChromeOS or Windows. Eventually, I stumbled across an unlikely candidate - a Microsoft Surface Go 3 (the latest at the time of writing). 
 
-I'll admit, I've owned the first version of the Surface Go (not for very long, mind you!) but at that point in time, there was no project ongoing with the sole purpose of making them run Linux. Although I loved the size and portability of it, Windows itself was always the major sticking point considering the Go devices themselves aren't exactly powerhouses... But with the [linux-surface](https://github.com/linux-surface/linux-surface) project, things were looking up!
-
 Getting the Surface (many different types, suprisingly) running Linux is incredibly straightforward, though I did have a few hiccups along the way. So, for the sake of documenting it for myself (at least as of April 2023) and for anyone else who wants to do the same, here's how to get your Surface Go up and running with Ubuntu (22.10 being the latest version at the time of writing).
 
 ### Some prerequisites

@@ -5,17 +5,7 @@ draft: false
 menu: "main"
 weight: 60
 ---
-Table of Contents:
-
-[Skills](#skills)\
-[Certifications](#certs)\
-[Projects](#projects)\
-[Professional Experience](#professional-exp)\
-[Education](#edu)
-
 Below, you'll find a plain text version of my CV.
-
-<a name="skills"/>
 
 ### Skills
 
@@ -34,14 +24,11 @@ Ruby\
 Bash\
 Powershell
 
-<a name="certs"/>
-
 ### Certifications
 
 Microsoft Security Fundamentals (SC-900)\
-In Progress: Microsoft Azure Administrator (AZ-104)
-
-<a name="projects"/>
+Microsoft Azure Administrator (AZ-104)\
+In progress: AWS Certified Solutions Architect Associate (SAA-C03)
 
 ### Projects
 
@@ -65,9 +52,6 @@ Cookie Information's Google Consent Mode Google Tag Manager template.
 
 Self-hosting as many services as I can, testing out different MDM solutions, and learning Linux System Administration.
 
-
-<a name="professional-exp"/>
-
 ### Professional Experience
 
 Employer: WithSecure A/S\
@@ -79,7 +63,6 @@ Employer: Cookie Information A/S\
 Position: Security & Systems Administrator\
 Duration: September 2022 - February 2023\
 Country: Denmark
-
 
 Employer: Cookie Information A/S\
 Position: Senior Product Implementation Specialist\
@@ -95,8 +78,6 @@ Employer: Incept Sustainability\
 Position: Communications & React Developer Intern\
 Duration: May 2020 - October 2020\
 Country: Denmark
-
-<a name="edu"/>
 
 ### Education
 

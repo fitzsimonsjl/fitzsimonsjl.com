@@ -18,3 +18,5 @@ A list of what is going to be covered in future posts (or the "overview")
   - VPN selection
   - Web browsers
 - Alternatives (Android with GrapheneOS)
+
+WHEN OPENING APP STORE FOR FIRST TIME, SELECT "TURN OFF PERSONAL ADS"

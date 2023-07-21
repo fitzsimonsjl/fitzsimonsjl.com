@@ -3,7 +3,7 @@ title: "iOS Hardening Guide"
 date: 2023-06-22T19:51:46+02:00
 description: "A hardening guide for iOS 16 from first boot"
 toc: true
-draft: false
+draft: true
 tags: []
 ---
 

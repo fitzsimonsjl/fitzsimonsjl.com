@@ -4,7 +4,7 @@ date: 2023-06-22T19:51:46+02:00
 description: "A hardening guide for iOS 16 from first boot"
 toc: true
 draft: true
-tags: []
+tags: [ios, apple, security, privacy]
 ---
 
 # Introduction

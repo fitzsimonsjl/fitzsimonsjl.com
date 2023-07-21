@@ -4,7 +4,7 @@ date: 2023-04-10T13:00:13+01:00
 description:
 toc: false
 draft: false
-tags: [hugo, guide, github, github actions]
+tags: [hugo, guide, github, github-actions]
 ---
 ## What exactly is a Static Site Generator (SSG)?
 A Static Site Generator takes content you give it (text, images and so on) and builds this all as standard HTML. What this means is that the content does not change and is shown to the user exactly the same way every single time.

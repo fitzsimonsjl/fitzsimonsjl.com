@@ -5,7 +5,7 @@ draft: false
 menu: "main"
 weight: 40
 ---
-Below you'll find photos I've taken around the world...
+Below you'll find a few photos I've taken around the world. I'll update these as  I go...
 
 ### Iceland
 

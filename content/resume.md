@@ -5,7 +5,7 @@ draft: false
 menu: "main"
 weight: 60
 ---
-Below, you'll find a plain text version of my CV.
+Below, you'll find a plain text version of my CV. If you'd like to see what I've been working on recently outside of work, head over to [ my GitHub profile](https://github.com/fitzsimonsjl).
 
 ### Skills
 
@@ -28,7 +28,7 @@ Powershell
 
 Microsoft Security Fundamentals (SC-900)\
 Microsoft Azure Administrator (AZ-104)\
-In progress: AWS Certified Solutions Architect Associate (SAA-C03)
+AWS Certified Solutions Architect Associate (SAA-C03)
 
 ### Projects
 

@@ -2,17 +2,19 @@
 title: "iOS Hardening Guide"
 date: 2023-06-22T19:51:46+02:00
 description: "A hardening guide for iOS 16 from first boot"
-toc: false
-draft: true
+toc: true
+draft: false
 tags: []
 ---
 
 # Introduction
-This originally started as a checklist for myself for when I set up an iOS device so that I don't need to try and remember all the steps I've taken/all the settings I've toggled on/off, but decided to turn it into a blog post in case it's of use to anyone else.
+This originally started as a checklist for myself for when I set up an iOS device so that I don't need to try and remember all the steps I've taken/all the settings I've toggled on/off, but decided to put it here in case it's of use to anyone else.
 
 This post isn't going to cover specific apps or tecnhiques to reduce data collection/ be more private - that'll be for another post some time next week. For now we're only going to deal with configuring default iOS settings to secure your device as much as possible, reducing the attack surface where we can. Before we dig in, it's worth talking a little bit about threat modelling - because that's going to be the basis for a) if you care about implementing any of this at all, or b) how far you're going to take things if you decide to implement everything and more.
 
 [Threat modelling section goes here]
+
+{{.TableofContents}}
 
 # Initial boot (Part 1)
 

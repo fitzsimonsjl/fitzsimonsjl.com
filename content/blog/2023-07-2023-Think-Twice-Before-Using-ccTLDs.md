@@ -9,7 +9,7 @@ tags: [ccTLD, domains]
 
 Depending on how closely you follow technology news you may (or may not) have heard about some Lemmy instances (a federated equivalent of something similar to Reddit) going down for a day or so recently. Lemmy has had a surge in popularity over the last month and a half [due to Reddit API changes](https://techcrunch.com/2023/07/04/reddit-braces-for-life-after-api-changes/) that have had people looking for an alternative. 
 
-The instances in question all have one thing in common: their domain ends in ".ml" which is a country code Top Level Domain (ccTLD). In this case, .ml is the domain for Mali. What could go wrong?...
+The instances in question all have one thing in common: their domain ends in ".ml" which is a country code Top Level Domain (ccTLD). In this case, .ml is the Top Level Domain for Mali. What could go wrong?...
 
 # The problem
 
@@ -21,7 +21,7 @@ By taking the domains back, sites using the .ml ccTLD were faced with their site
 
 **.sh**: One I see quite frequently used by developers for personal blogs - a play on the .sh file extension ending for a shell script. But, to the British Overseas Territory of Saint Helena, it's their ccTLD... Amusingly, it isn't just individuals who have made a habit of using it - entire states have taken a liking to it. Specifically, the German federal state of Schleswig-Holstein. From public transport to political parties, through to certain government sites; all of them end in the domain of another country.
 
-**.me**:  the ccTLD of Montenegro. Often used for personal sites as first_or_last_name.me, but also many large tech firms including (but not limited to) Facebook, Telegram, Proton (formerly Proton Mail), WhatsApp, Google, and WordPress . Even a few companies have used it over the years (including Proton Mail). For larger companies, this isn't such an issue as they already have established .com domains to fall back on - not necessarily the case for individuals.
+**.me**:  the ccTLD of Montenegro. Often used for personal sites as first_or_last_name.me, but also many large tech firms including (but not limited to) Facebook, Telegram, Proton (formerly Proton Mail), WhatsApp, Google, and WordPress. Even a few companies have used it over the years (including Proton Mail). For larger companies, this isn't such an issue as they already have established .com domains to fall back on - not necessarily the case for individuals.
 
 # Not the first time, and certainly not the last...
 

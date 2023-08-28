@@ -55,8 +55,13 @@ Self-hosting as many services as I can, testing out different MDM solutions, and
 ### Professional Experience
 
 Employer: WithSecure A/S\
+Position: Associate Security Consultant\
+Duration: August 2023 - Present\
+Country: Denmark
+
+Employer: WithSecure A/S\
 Position: Cybersecurity Academy Trainee\
-Duration: March 2023 - Present\
+Duration: March 2023 - August 2023\
 Country: Denmark
 
 Employer: Cookie Information A/S\

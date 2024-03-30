@@ -4,8 +4,8 @@ I have no plans to allow comments on posts because I don't want to spend time mo
 
 Links to other places you can find me/get in touch:
 
-- [Signal](https://coming-soon-maybe)
 - [Matrix](https://matrix.to/#/@user:jfitzsimo)
+- [Wire](@0xfitz)
 - [LinkedIn](https://dk.linkedin.com/in/jacklukefitzsimons)
 - [Mastodon](https://infosec.exchange/@jfitzsimo)
 - [GitHub](https://github.com/fitzsimonsjl)

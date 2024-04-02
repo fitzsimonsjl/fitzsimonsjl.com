@@ -10,9 +10,9 @@ Below, you'll find a plain text version of my CV. If you'd like to see what I've
 ### Skills
 
 **Security**:
-Application security assessments
-Cloud security assessments (AWS and Azure)
-Mainframe security assessments
+Application security assessments\
+Cloud security assessments (AWS and Azure)\
+Mainframe security assessments\
 
 **Systems Administration**:
 

@@ -12,7 +12,7 @@ Below, you'll find a plain text version of my CV. If you'd like to see what I've
 **Security**:
 Application security assessments\
 Cloud security assessments (AWS and Azure)\
-Mainframe security assessments\
+Mainframe security assessments (IBM z/OS and HP NonStop)\
 
 **Systems Administration**:
 
@@ -60,8 +60,13 @@ Self-hosting as many services as I can, testing out different MDM solutions, and
 ### Professional Experience
 
 Employer: WithSecure A/S\
+Position: Security Consultant\
+Duration: May 2024 - Present\
+Country: Denmark
+
+Employer: WithSecure A/S\
 Position: Associate Security Consultant\
-Duration: August 2023 - Present\
+Duration: August 2023 - May 2024\
 Country: Denmark
 
 Employer: WithSecure A/S\

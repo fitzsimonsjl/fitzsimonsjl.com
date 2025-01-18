@@ -3,6 +3,7 @@ title: "Think Twice Before Using a ccTLD - Some Thoughts"
 date: 2023-07-23T19:44:07+02:00
 description: "A cautionary tale when thinking about a ccTLD domain for your personal site or business"
 draft: false
+toc: true
 tags: [ccTLD, domains]
 ---
 # Background

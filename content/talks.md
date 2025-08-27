@@ -10,6 +10,7 @@ In the tables below you'll find conference talks and webinars I've given.
 
 | Talk Title | Event | Video Link | Slides Link |
 |------------|-------|------------|-------------|
+| Bending the Big Iron: An Introduction to Mainframe Hacking | [BSides Aarhus 2025](https://bsidesaarhus.dk/) | N/A | N/A |
 | Life Without Google or Apple In Your Pocket: Protecting Your Data | [BSides København 2023](https://2023.bsideskbh.dk/) | N/A | N/A |
 | How Much Dirty Laundry Are Your Smart Devices Airing About You? | [Disobey 2024](https://disobey.fi/2024/) | N/A | N/A |
 

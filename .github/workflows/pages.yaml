@@ -25,7 +25,7 @@ jobs:
     runs-on: ubuntu-latest # Always pulls latest version of Ubuntu runner.
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           submodules: true # Ensures that our theme is always the latest stable version.
 
@@ -40,7 +40,7 @@ jobs:
 
       - name: Setting up Pages
         id: pages
-        uses: actions/configure-pages@v2
+        uses: actions/configure-pages@v4
 
       - name: Build
         run: hugo --baseURL "${{ steps.pages.outputs.base_url }}/"
@@ -59,4 +59,4 @@ jobs:
     steps:
       - name: Deploy build to GH Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4

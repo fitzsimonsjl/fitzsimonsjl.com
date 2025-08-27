@@ -73,7 +73,7 @@ jobs:
     runs-on: ubuntu-latest # Always pulls latest version of Ubuntu runner.
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           submodules: true # Ensures that our theme is always the latest stable version.
 
@@ -88,13 +88,13 @@ jobs:
 
       - name: Setting up Pages
         id: pages
-        uses: actions/configure-pages@v2
+        uses: actions/configure-pages@v4
 
       - name: Build
         run: hugo --baseURL "${{ steps.pages.outputs.base_url }}/"
 
       - name: Upload artifact # Here we are able to view the contents of our site at the time of deploy - it will be kept for a short while before deletion.
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./public
 
@@ -107,7 +107,7 @@ jobs:
     steps:
       - name: Deploy build to GH Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4
 ```
 The above script tells GitHub that we have created an action called "Deploy Hugo SSG to GH Pages" and does the following in order:
 

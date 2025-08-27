@@ -4,7 +4,7 @@ date: 2023-11-12T17:11:03+01:00
 draft: false
 menu: "main"
 ---
-In the tables below you'll find conference talks and webinars I've given.
+Below you'll find conference talks and webinars I've given or am set to give.
 
 ## Public Conferences and Events
 

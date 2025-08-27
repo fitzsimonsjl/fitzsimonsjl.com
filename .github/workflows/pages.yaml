@@ -46,7 +46,7 @@ jobs:
         run: hugo --baseURL "${{ steps.pages.outputs.base_url }}/"
 
       - name: Upload artifact # Here we are able to view the contents of our site at the time of deploy - it will be kept for a short while before deletion.
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./public
 
